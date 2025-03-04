@@ -2,9 +2,9 @@
 React is a popular JavaScript library developed by Facebook for building user interfaces, especially for single-page applications. 
 It allows developers to create reusable UI components, making the development process more efficient and manageable.
 <h2>Why need React?</h2>
-<h3>Component-Based Architecture </h3>
-<h3>Declarative Syntax</h3>
-<h3>Single Page Programming.</h3>
+<p>Component-Based Architecture </p>
+<p>Declarative Syntax</p>
+<p>Single Page Programming.</p>
 
 <h3>Babel</h3>
 <p>babel is a javascript compiler.</p>
