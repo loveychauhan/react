@@ -1,0 +1,22 @@
+section {
+  max-width: 300px;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+.img-container {
+  max-width: 100%;
+}
+.img-container img {
+  width: 100%;
+}
+.card-content h3,.card-content p {
+    margin: 6px 8px;
+}
+
+.container{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  gap: 12px;
+}
